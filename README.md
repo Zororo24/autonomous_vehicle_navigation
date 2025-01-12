@@ -21,7 +21,7 @@ A deep reinforcement learning project that simulates autonomous vehicles learnin
 - Matplotlib
 
 
-2. Interface Controls:
+# Interface Controls
 - Left click and drag to draw obstacles (sand)
 - Buttons:
   - `clear`: Removes all obstacles from the map
