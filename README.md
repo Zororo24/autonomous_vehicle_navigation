@@ -20,8 +20,7 @@ A deep reinforcement learning project that simulates autonomous vehicles learnin
 - NumPy
 - Matplotlib
 
-
-# Interface Controls
+## Interface Controls
 - Left click and drag to draw obstacles (sand)
 - Buttons:
   - `clear`: Removes all obstacles from the map
